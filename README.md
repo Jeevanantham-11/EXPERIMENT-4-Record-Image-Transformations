@@ -1,4 +1,4 @@
-# Geometric Transformations Using OpenCV
+## Geometric Transformations Using OpenCV
 ### Aim
 To write a Python program using OpenCV to perform various geometric transformations on an image.
 
